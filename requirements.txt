@@ -1,0 +1,8 @@
+google-cloud-bigquery
+google-cloud-bigquery-storage
+pandas
+pyarrow
+datetime
+pandas_gbq
+tqdm
+sendgrid=6.4.8 
